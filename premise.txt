@@ -1,0 +1,4 @@
+Premise:
+A spin off battleships game with varying levels of designed AI: Random, partial intelligence and probability driven.
+
+
